@@ -1,4 +1,4 @@
-# KBAM
+# Kernel Bayesian Adaptive Resonance Theory MAP
 
 (c) 2020 Naoki Masuyama
 
